@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c6ef10bfb5706523",
+        "id": "a731ce0d089b56c6",
         "type": "tabs",
         "children": [
           {
-            "id": "88b464c8ac900b31",
+            "id": "6f71ada28083e00a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "2026-06-09.md",
-                "bFile": "2026-06-09.md",
-                "aRef": ""
+                "file": "第一章 初识智能体.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2026-06-09  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "第一章 初识智能体"
             }
           }
         ]
@@ -194,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88b464c8ac900b31",
+  "active": "6f71ada28083e00a",
   "lastOpenFiles": [
-    "2026-06-09.md",
-    "第一章 初识智能体.md",
     "Pasted image 20260609194603.png",
+    "第一章 初识智能体.md",
+    "2026-06-09.md",
     "欢迎.md",
     "HELLO"
   ]
