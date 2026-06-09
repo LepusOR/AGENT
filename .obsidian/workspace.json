@@ -11,14 +11,14 @@
             "id": "88b464c8ac900b31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "第一章 初识智能体.md",
-                "mode": "source",
-                "source": false
+                "aFile": "2026-06-09.md",
+                "bFile": "2026-06-09.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "第一章 初识智能体"
+              "icon": "diff",
+              "title": "Diff: 2026-06-09  (Working Tree)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章 初识智能体.md",
+                "file": "2026-06-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第一章 初识智能体 的反向链接列表"
+              "title": "2026-06-09 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一章 初识智能体.md",
+                "file": "2026-06-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "第一章 初识智能体 的出链列表"
+              "title": "2026-06-09 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章 初识智能体.md",
+                "file": "2026-06-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第一章 初识智能体 的大纲"
+              "title": "2026-06-09 的大纲"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "88b464c8ac900b31",
   "lastOpenFiles": [
-    "Pasted image 20260609194603.png",
+    "2026-06-09.md",
     "第一章 初识智能体.md",
+    "Pasted image 20260609194603.png",
     "欢迎.md",
     "HELLO"
   ]
