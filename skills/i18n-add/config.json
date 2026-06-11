@@ -1,0 +1,31 @@
+{
+  "cacheDir": ".i18n-cache",
+  "outputDir": ".i18n-output",
+  "cacheTtlHours": 24,
+  "csv": {
+    "appName": "crmweb",
+    "group": "authcenter"
+  },
+  "namespaces": {
+    "crmweb_authcenter": {
+      "url": "https://lang.alicdn.com/mcms/crmweb/0.0.70/crmweb_authcenter_zh-cn.json",
+      "matchLang": "zh_CN",
+      "writable": true
+    },
+    "renzheng_prd": {
+      "url": "https://lang.alicdn.com/mcms/renzheng/0.0.2/renzheng_prd_zh-cn.json",
+      "matchLang": "zh_CN",
+      "writable": false
+    },
+    "chaos-web_verified_report": {
+      "url": "https://lang.alicdn.com/mcms/chaos-web/0.0.1/chaos-web_verified_report_zh-cn.json",
+      "matchLang": "zh_CN",
+      "writable": false
+    },
+    "elastic-report-service": {
+      "url": "https://lang.alicdn.com/mcms/elastic-report-service/0.0.40/elastic-report-service_certification_report_en-us.json",
+      "matchLang": "en_US",
+      "writable": false
+    }
+  }
+}
